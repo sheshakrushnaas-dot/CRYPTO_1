@@ -1,0 +1,11 @@
+{
+  "model": "HistGradientBoostingClassifier",
+  "features": [
+    "tx_in_degree",
+    "tx_out_degree",
+    "output_address_count",
+    "unique_output_address_count",
+    "total_tx_degree"
+  ],
+  "random_state": 42
+}

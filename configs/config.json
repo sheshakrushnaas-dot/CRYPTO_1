@@ -1,0 +1,9 @@
+{
+  "chunk_size": 100000,
+  "supported_formats": [
+    "csv",
+    "json",
+    "xml"
+  ],
+  "api_port": 8000
+}

@@ -1,0 +1,4 @@
+file,size_mb,rows
+txs_classes.csv,2.25,203769
+txs_edgelist.csv,4.26,234355
+TxAddr_edgelist.csv,35.0,837124
